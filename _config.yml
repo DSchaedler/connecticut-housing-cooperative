@@ -22,8 +22,8 @@ title: CT Housing Cooperative
 email: deeschaedler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog and website for organizing information about creating a Housing Cooperative
-baseurl: "/cthousingcoop" # the subpath of your site, e.g. /blog
-url: "https://ejectdrive.com/cthousingcoop" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/connecticut-housing-cooperative" # the subpath of your site, e.g. /blog
+url: "https://ejectdrive.com/connecticut-housing-cooperative" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  DSchaedler
 
