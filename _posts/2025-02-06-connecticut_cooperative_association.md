@@ -5,8 +5,6 @@ date:   2025-02-06 00:16:30 -0500
 author:
 - Dee Schaedler
 ---
-*Dee Schaedler*
-
 Based on what I can find in Connecticut, it seems like the legal entity required is a Cooperative Association as defined by [Connecticut General Statutes Title 33 Chapter 595.](https://www.cga.ct.gov/2023/pub/chap_595.htm)
 
 > Three or more persons of lawful age and inhabitants of this state, may, by written articles of association, associate themselves together for the purposes of trade or for carrying on any lawful mercantile, mechanical, manufacturing or agricultural business within this state, and, when such articles of association have been executed and filed in the office of the Secretary of the State, the franchise tax provided by section 33-187 paid to, and such articles of association approved by, said secretary, such persons shall become a corporation and enjoy all the powers and privileges and be subject to all the duties, restrictions and liabilities of other corporations, except so far as such duties, restrictions and liabilities may be limited or enlarged by this chapter.
