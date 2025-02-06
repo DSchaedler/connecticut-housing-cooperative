@@ -26,6 +26,17 @@ layout: base
       {%- endif -%}</p>
   </header>
 
+  {% if page.previous %}
+    <a href="{{ site.url | append: page.previous.url }}" style="text-align:left;float:left;">
+      &#60;&#60; {{ page.previous.title }}
+    </a>
+  {% endif %}
+  {% if page.next %}
+    <a href="{{ site.url | append: page.next.url }}" style="text-align:right;float:right;">
+      {{ page.next.title }} &#62;&#62;
+    </a>
+  {% endif %}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
