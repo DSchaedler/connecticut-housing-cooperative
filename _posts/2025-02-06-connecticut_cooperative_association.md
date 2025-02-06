@@ -2,6 +2,8 @@
 layout: post
 title:  "Forming a Cooperative Association"
 date:   2025-02-06 00:16:30 -0500
+author:
+- Dee Schaedler
 ---
 *Dee Schaedler*
 
