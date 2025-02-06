@@ -3,6 +3,7 @@ layout: post
 title:  "Solicitation of Charitable Funds"
 date:   2025-02-06 00:16:50 -0500
 ---
+*Dee Schaedler*
 
 Not being able to accept grants or donations would be pretty catastrophic for a cooperative. Part of this project relies on tax exempt statuses, cooperation with Land Banks and public benefit programs, and direct donations.
 
