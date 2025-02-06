@@ -37,14 +37,8 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
   <div style="text-align:left;float:left;">
-    {% if page.previous_in_category %}
-      <a href="{{ page.previous_in_category.url }}">{{ page.previous_in_category.title }}</a>
-    {% endif %}
-  </div>
+    &#60;&#60; {previous.url} </div>
   <div style="text-align:right;float:right;">
-    {% if page.next_in_category %}
-      <a href="{{ page.next_in_category.url }}">{{ page.next_in_category.title }}</a>
-  {% endif %}
-  </div>
+    {next.url} &#62;&#62; </div>
     
 </article>
