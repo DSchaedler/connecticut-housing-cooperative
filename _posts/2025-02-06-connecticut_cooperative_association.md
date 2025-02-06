@@ -3,6 +3,7 @@ layout: post
 title:  "Forming a Cooperative Association"
 date:   2025-02-06 00:16:30 -0500
 ---
+*Dee Schaedler*
 
 Based on what I can find in Connecticut, it seems like the legal entity required is a Cooperative Association as defined by [Connecticut General Statutes Title 33 Chapter 595.](https://www.cga.ct.gov/2023/pub/chap_595.htm)
 
